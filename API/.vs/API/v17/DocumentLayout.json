@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Yasmin\\Projects\\Chat\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\dtos\\messageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:dtos\\messageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\dtos\\messagerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:dtos\\messagerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\endpoints\\accountendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:endpoints\\accountendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\dtos\\onlineuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:dtos\\onlineuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\extensions\\claimsprincipleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:extensions\\claimsprincipleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\services\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:services\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|e:\\yasmin\\projects\\chat\\api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6343D5FD-86DE-4C75-BCEE-BFCB7112426C}|API.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageRequestDto.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\DTOs\\MessageRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MessageRequestDto.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\DTOs\\MessageRequestDto.cs",
+              "RelativeToolTip": "DTOs\\MessageRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:22:48.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OnlineUserDto.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\DTOs\\OnlineUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OnlineUserDto.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\DTOs\\OnlineUserDto.cs",
+              "RelativeToolTip": "DTOs\\OnlineUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:41:57.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:38:23.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:31:02.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAiwB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:49:33.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountEndPoint.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\EndPoints\\AccountEndPoint.cs",
+              "RelativeDocumentMoniker": "EndPoints\\AccountEndPoint.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\EndPoints\\AccountEndPoint.cs",
+              "RelativeToolTip": "EndPoints\\AccountEndPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:41:31.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Response.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\Common\\Response.cs",
+              "RelativeDocumentMoniker": "Common\\Response.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\Common\\Response.cs",
+              "RelativeToolTip": "Common\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:31:28.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T08:32:11.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageResponseDto.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\DTOs\\MessageResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MessageResponseDto.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\DTOs\\MessageResponseDto.cs",
+              "RelativeToolTip": "DTOs\\MessageResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:49:45.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClaimsPrincipleExtensions.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\Extensions\\ClaimsPrincipleExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ClaimsPrincipleExtensions.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\Extensions\\ClaimsPrincipleExtensions.cs",
+              "RelativeToolTip": "Extensions\\ClaimsPrincipleExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:01:22.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\Services\\FileUpload.cs",
+              "RelativeDocumentMoniker": "Services\\FileUpload.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\Services\\FileUpload.cs",
+              "RelativeToolTip": "Services\\FileUpload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T08:02:43.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:58:05.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T09:55:13.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:43:25.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\Yasmin\\Projects\\Chat\\API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "E:\\Yasmin\\Projects\\Chat\\API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T08:49:03.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

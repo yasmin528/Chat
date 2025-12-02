@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Yasmin\\Projects\\Chat\\API\\wwwroot\\uploads\\396d2dfc-1905-483f-b497-fb72061f616b.webp",
+      "PackagePath": "staticwebassets\\uploads\\396d2dfc-1905-483f-b497-fb72061f616b.webp"
+    },
+    {
+      "Id": "E:\\Yasmin\\Projects\\Chat\\API\\wwwroot\\uploads\\4958013a-9bbd-44e7-87b8-5a6dd20d516f.webp",
+      "PackagePath": "staticwebassets\\uploads\\4958013a-9bbd-44e7-87b8-5a6dd20d516f.webp"
+    },
+    {
+      "Id": "E:\\Yasmin\\Projects\\Chat\\API\\wwwroot\\uploads\\80a6a125-f180-48a9-951c-fd6e5306717a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\80a6a125-f180-48a9-951c-fd6e5306717a.jpg"
+    },
+    {
+      "Id": "E:\\Yasmin\\Projects\\Chat\\API\\wwwroot\\uploads\\956907fd-2ab5-4ca8-9f3f-7442ac51b746.webp",
+      "PackagePath": "staticwebassets\\uploads\\956907fd-2ab5-4ca8-9f3f-7442ac51b746.webp"
+    },
+    {
+      "Id": "E:\\Yasmin\\Projects\\Chat\\API\\wwwroot\\uploads\\9f2d873c-953f-408c-bff3-8d775fdcdbdb.webp",
+      "PackagePath": "staticwebassets\\uploads\\9f2d873c-953f-408c-bff3-8d775fdcdbdb.webp"
+    },
+    {
+      "Id": "E:\\Yasmin\\Projects\\Chat\\API\\wwwroot\\uploads\\da1dfe6f-401f-4274-b1c2-2e7019943cce.webp",
+      "PackagePath": "staticwebassets\\uploads\\da1dfe6f-401f-4274-b1c2-2e7019943cce.webp"
+    },
+    {
+      "Id": "E:\\Yasmin\\Projects\\Chat\\API\\wwwroot\\uploads\\f35adfac-dd8b-4a00-b54c-dc4cb3e69dbf.webp",
+      "PackagePath": "staticwebassets\\uploads\\f35adfac-dd8b-4a00-b54c-dc4cb3e69dbf.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
