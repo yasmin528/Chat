@@ -1,0 +1,7 @@
+#backgroundImage{
+    background-image: url("/register.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+    background-position: bottom;
+}

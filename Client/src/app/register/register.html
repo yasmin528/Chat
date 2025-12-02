@@ -1,0 +1,55 @@
+<form [formGroup]="registerForm" (ngSubmit)="submit()" class="md:flex justify-center px-20 py-20  gap-10 !bg-white">
+    <div class=" h-auto w-3/5" id="backgroundImage">
+    </div>
+    <div class="!bg-white  md:w-1/4 rounded flex flex-col gap-3 shadow-sm drop-shadow-md px-3 py-3">
+        <div class="text-center">
+            <div class="flex justify-center">
+                <img [src]="profilePicture" alt="register logo" class="rounded-full !bg-blue-800 h-24 w-24">
+            </div>
+            <div class="text-2xl my-2 font-medium">
+                Register
+            </div>
+        </div>
+        <mat-form-field class="w-full" appearance="fill">
+            <mat-label>UserName</mat-label>
+            <input matInput formControlName="userName" name="userName" placeholder="UserName" >
+            <mat-error *ngIf="registerForm.get('userName')?.hasError('required')">
+                UserName is required
+            </mat-error>
+        </mat-form-field>
+        <mat-form-field class="w-full" appearance="fill">
+            <mat-label>Email</mat-label>
+            <input matInput formControlName="email" name="email" placeholder="Email" >
+            <mat-error *ngIf="registerForm.get('email')?.hasError('required')">
+                Email is required
+            </mat-error>
+        </mat-form-field>
+        <mat-form-field  class="w-full"  appearance="fill">
+            <mat-label>Full Name</mat-label>
+            <input matInput formControlName="fullName" name="fullName"  placeholder="Full Name" >
+            <mat-error *ngIf="registerForm.get('fullName')?.hasError('required')">
+                Name is required
+            </mat-error>
+        </mat-form-field>
+        <mat-form-field class="w-full"  appearance="fill">
+            <mat-label>Password</mat-label>
+            <input matInput formControlName="password" [type]="hide()?'password':'text'" name="password" placeholder="Password" >
+            <mat-icon matSuffix (click)="togglePassword($event)" class="cursor-pointer"> {{hide()?'visibility_off':'visibility'}} </mat-icon>
+             <mat-error *ngIf="registerForm.get('password')?.hasError('required')">
+                Password is required
+            </mat-error>
+        </mat-form-field>
+
+        <input hidden type="file" (change)="onFileSelected($event)" placeholder="Profile Image" #pic >
+        <button  type="button" (click)="pic.click()" class="w-full flex items-center gap-2 justify-center mb-2 cursor-pointer !bg-red-900 !text-white rounded-md p-2">
+            <mat-icon>add_a_photo</mat-icon>
+            <span> Upload Image</span>
+        </button>
+        <button  type="submit" [disabled]="registerForm.invalid" class="w-full mb-5 !bg-blue-900 !text-white rounded-md p-2 cursor-pointer disabled:opacity-30 ">
+            Register
+        </button>
+        <p class="font-bold text-xs text-center pb-10">
+            Already have an account? <a [routerLink]="'/login'" class="text-blue-500" >Login</a>
+        </p>
+    </div>
+</form>
